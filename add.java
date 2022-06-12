@@ -1,7 +1,7 @@
 package CODE;
 
 import java.util.Scanner;
-//Edited By Akshay
+//Edited By Akshay Edited in gamma
 
 public class add {
 
